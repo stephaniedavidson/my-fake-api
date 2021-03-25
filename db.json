@@ -1,0 +1,22 @@
+{
+    "lizards":[
+        {
+            "id":0,
+            "name":"Tegu",
+            "appearance":"Large, black or red lizard, invasive to Florida.",
+            "cuteness":"****"
+        },
+        {
+            "id":1,
+            "name":"Leopard gecko",
+            "appearance":"Small spotted lizard with fat tail.",
+            "cuteness":"****-"
+        },
+        {
+            "id":3,
+            "name":"Blue tongued skink",
+            "appearance":"Chunky lizard with blue tongue that enjoys eggs.",
+            "cuteness":"*****"
+        }
+    ]    
+}
